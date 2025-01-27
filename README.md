@@ -1,4 +1,4 @@
-####Retail Management System
+# Retail Management System
 
 A user-friendly Streamlit-based application for managing retail operations with functionality for both managers and users. This system facilitates inventory management, sales processing, user registration, cart management, and more.
 
@@ -40,3 +40,4 @@ A user-friendly Streamlit-based application for managing retail operations with 
 - Installed Python libraries:
   ```bash
   pip install streamlit mysql-connector-python pandas
+
